@@ -12,9 +12,7 @@
 
 ## 🤔 Sobre
 
-Projeto **E-bike**, projeto feito no canal @cantodocodigo.
-
-**https://www.youtube.com/@cantodocodigo**
+Projeto **App-Bike_Ecommerce**, aplicativo de bike e seus acessórios.
 
 Layout baseado [Nesse projeto](https://www.figma.com/file/TXhmYqCwzp8EcPyjJOheW8/Online-Bike-Shopping-App-(Community)?node-id=1%3A5&t=8jVoRBZcEeg6rhKF-0)
 
